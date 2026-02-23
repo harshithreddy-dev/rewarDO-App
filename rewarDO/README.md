@@ -55,9 +55,6 @@ rewarDO is a productivity app designed to help users focus on one task at a time
 ## Contributing 
 We welcome contributions! Feel free to open issues or submit pull requests.
 
-## License 
-This project is licensed under the MIT License.
-
 ---
 
 # Expo Router Example
